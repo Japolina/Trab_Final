@@ -1,0 +1,8 @@
+aside {
+    background-color: rgba(255, 255, 255, 0.24);
+}
+main {
+    background-image: url("../../assets/Fundo.jpg");
+    color: aliceblue;
+    text-align: center;
+}

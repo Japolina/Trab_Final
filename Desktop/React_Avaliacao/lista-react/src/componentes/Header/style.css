@@ -1,0 +1,17 @@
+.header {
+    background-color: rgba(19, 64, 116, 0.89);
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1 {
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+
+.header .social a {
+    padding: 0 5px;
+    text-decoration: none;
+}
